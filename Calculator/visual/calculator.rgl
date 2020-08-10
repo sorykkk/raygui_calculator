@@ -1,0 +1,45 @@
+#
+# rgl layout text file (v2.1) - raygui layout file generated using rGuiLayout
+#
+# Number of controls:     27
+#
+# Ref. window:    r <x> <y> <width> <height>
+# Anchor info:    a <id> <name> <posx> <posy> <enabled>
+# Control info:   c <id> <type> <name> <rectangle> <anchor_id> <text>
+#
+r 0 0 -1 -1
+a 000 anchorMain 0 0 0
+a 001 anchor01 82 37 1
+a 002 anchor02 -87 171 1
+a 003 anchor03 0 0 0
+a 004 anchor04 0 0 0
+a 005 anchor05 0 0 0
+a 006 anchor06 0 0 0
+a 007 anchor07 0 0 0
+c 000 3 Panel019 0 0 376 538 1 
+c 001 13 TextBoxInput 10 53 358 80 1 0
+c 002 5 ButtonCancel 190 140 86 60 1 C
+c 003 5 ButtonDivision 280 204 86 60 1 /
+c 004 5 ButtonMultiplication 280 268 86 60 1 x
+c 005 5 ButtonSubstraction 280 332 86 60 1 -
+c 006 5 Button7 10 268 86 60 1 7
+c 007 5 Button8 100 268 86 60 1 8
+c 008 5 Button9 190 268 86 60 1 9
+c 009 5 Button4 10 332 86 60 1 4
+c 010 5 Button5 100 332 86 60 1 5
+c 011 5 Button6 190 332 86 60 1 6
+c 012 5 ButtonAdition 280 396 86 60 1 +
+c 013 5 Button1 10 396 86 60 1 1
+c 014 5 Button2 100 396 86 60 1 2
+c 015 5 Button3 190 396 86 60 1 3
+c 016 5 Button0 100 460 86 60 1 0
+c 017 5 ButtonDelete 190 460 86 60 1 *
+c 018 5 ButtonEnter 280 460 86 60 1 =
+c 019 13 TextBox019 10 18 358 36 1 
+c 020 5 Button020 10 460 86 60 1 +/-
+c 021 5 Button021 100 204 86 60 1 x^2
+c 022 5 Button022 10 140 86 60 1 %
+c 023 5 Button023 190 204 86 60 1 x^(1/2)
+c 024 5 Button024 280 140 86 60 1 <-
+c 025 5 Button025 100 140 86 60 1 CE
+c 026 5 Button026 10 204 86 60 1 1/x
